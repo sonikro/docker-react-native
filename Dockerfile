@@ -79,6 +79,7 @@ RUN npm config set spin=false
 RUN npm config set progress=false
 
 RUN npm install -g react-native-cli
+RUN npm install -g yarn
 
 # Full reference at https://dl.google.com/android/repository/repository2-1.xml
 # download and unpack android
