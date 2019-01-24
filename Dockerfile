@@ -85,6 +85,7 @@ RUN /opt/tools/android-accept-licenses.sh "$ANDROID_HOME/tools/bin/sdkmanager \
 	\"platforms;android-23\" \
 	\"platforms;android-25\" \
 	\"platforms;android-26\" \
+	\"platforms;android-27\" \
 	\"extras;android;m2repository\" \
 	\"extras;google;m2repository\" \
 	\"add-ons;addon-google_apis-google-24\" \
